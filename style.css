@@ -12,7 +12,7 @@ body {
 .code {
     background-color: rgb(175, 175, 175);
     color: black;
-    padding: 3px;
+    padding: 2px 3px 2px;
     border-radius: 3px;
 }
 
