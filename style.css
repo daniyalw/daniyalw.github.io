@@ -9,6 +9,13 @@ body {
     font-family: -apple-system;
 }
 
+.code {
+    background-color: rgb(175, 175, 175);
+    color: black;
+    padding: 3px;
+    border-radius: 3px;
+}
+
 .sidenav {
     height: 100%;
     width: 200px;
