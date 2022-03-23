@@ -17,8 +17,9 @@ body {
 }
 
 table, th, td {
-  border: 1px solid white;
-  border-collapse: collapse;
+    border: 1px solid white;
+    border-collapse: collapse;
+    padding: 2px;
 }
 
 .sidenav {
