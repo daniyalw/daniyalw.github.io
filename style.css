@@ -16,6 +16,10 @@ body {
     border-radius: 3px;
 }
 
+table, th, td {
+  border: 1px solid white;
+}
+
 .sidenav {
     height: 100%;
     width: 200px;
