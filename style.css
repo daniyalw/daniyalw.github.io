@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
-    background-color: #121212;
-    color: rgb(230, 230, 230);
+    background-color: rgb(35, 35, 35);
+    color: #D8D8D8;
 }
 
 body {
     margin: 0;
-    font-family: -apple-system;
+    font-family: "Source Sans Pro Light", Helvetica, sans-serif;
 }
 
 .code {
@@ -53,4 +53,26 @@ table, th, td {
 .content {
     margin-left: 200px;
     padding-left: 20px;
+}
+
+.topbar-button {
+    border-radius: 4px;
+    display: inline-block;
+    padding: 10px 22px;
+    text-decoration: none;
+    border: 1px solid white;
+    font-size: 16px;
+    cursor: grab;
+}
+
+.topbar-button:hover {
+    background-color: black;
+    transition-duration: 0.4s;
+}
+
+.topbar {
+    text-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
