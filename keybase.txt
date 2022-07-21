@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dwarraich
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://daniyalw.github.io
+  * I am dwarraich (https://keybase.io/dwarraich) on keybase.
+  * I have a public key ASB1knjYnwaRdOV1Ao4m1I4GG7SHah0tNjVjRxeV923EMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c7a88d60d3327c2ff7f1e534cfc36a6c0609a3e431ac82ea1a6133a4979bfc1c0a",
+      "host": "keybase.io",
+      "kid": "0120759278d89f069174e575028e26d48e061bb4876a1d2d363563471795f76dc4320a",
+      "uid": "7ca2d7f86146938144f3088aa78f1619",
+      "username": "dwarraich"
+    },
+    "merkle_root": {
+      "ctime": 1658361968,
+      "hash": "3268307b28babe4a641ec18078de716cc433820d121de6c89dfc06d14df53baf5cd0debd13fd3f72d9213f59791811614968adf3ddc0caa5a06fc62310beddd3",
+      "hash_meta": "fb23c1aa07ac1e0b6ea6ff13e7513c91f5f0f095145d160bd3c80f145e088a01",
+      "seqno": 22884712
+    },
+    "service": {
+      "entropy": "jEfcJNhkEM8Msn4+eVbW9MUR",
+      "hostname": "daniyalw.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1658361978,
+  "expire_in": 504576000,
+  "prev": "38dd56ab21485f0f205bb5aeaf4a705f4520588bffce9d968ec1f91049ffc0de",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdZJ42J8GkXTldQKOJtSOBhu0h2odLTY1Y0cXlfdtxDIKp3BheWxvYWTESpcCCcQgON1WqyFIXw8gW7Wur0pwX0UgWIv/zp2WjsH5EEn/wN7EIKTlDrUoxPYzlM5wOVcbwi5j25WLcySZRN40h0xGz7/SAgHCo3NpZ8RA1XblEyIbQgN8DSWdmboh2EjmK0YQdjKwSsY3czTCkJuBiM5dnuRuAl6R+QV+Bjibalf70iFF07wAgKB0kXpuBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBGM3PuF23u5it1Lalrk9WS9DBrSRUJeq5gM0FUOW8ado3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dwarraich
+
+==================================================================
