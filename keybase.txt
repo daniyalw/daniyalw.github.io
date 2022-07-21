@@ -54,3 +54,59 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dwarraich
 
 ==================================================================
+==================================================================
+https://keybase.io/daniyalw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://daniyalw.github.io
+  * I am daniyalw (https://keybase.io/daniyalw) on keybase.
+  * I have a public key ASDQgTOlmr9t7rTOLtAlKGmC5WDyfcVhAJs6PReZmtjxwAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d08133a59abf6deeb4ce2ed025286982e560f27dc561009b3a3d17999ad8f1c00a",
+      "host": "keybase.io",
+      "kid": "0120d08133a59abf6deeb4ce2ed025286982e560f27dc561009b3a3d17999ad8f1c00a",
+      "uid": "c7ea2eb1611bcb191d8f9c39cdd9e819",
+      "username": "daniyalw"
+    },
+    "merkle_root": {
+      "ctime": 1658362737,
+      "hash": "180857065560386e0da35e2a3f5f2f1d229a22aa7d980c4ff9fa40b565c95324b2c76ff0fed9a9947055bd88195e440fc22ef8a3a4a20d65d9c0cabd60aafe0f",
+      "hash_meta": "f5b2ca04fa76c8adf4356afa5be8e6639dccf3c54b5b609a8dc74278ce7cafed",
+      "seqno": 22884769
+    },
+    "service": {
+      "entropy": "ZYgKJUFEqAa4RLJVukRxzudm",
+      "hostname": "daniyalw.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1658362757,
+  "expire_in": 504576000,
+  "prev": "1913468ef7df7074032dea857bfaa83b0adbb38fb255e97f56d9c00e2ec948df",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0IEzpZq/be60zi7QJShpguVg8n3FYQCbOj0XmZrY8cAKp3BheWxvYWTESpcCBsQgGRNGjvffcHQDLeqFe/qoOwrbs4+yVel/VtnADi7JSN/EIG6UEmoqm9jeBcMR1t48/IsseQqRfah/+rw+0Eh46d9QAgHCo3NpZ8RAflcQwk4ZeBDJuaerqyPzJ68GxhkBj0kowLcslYqLnWXwh7H7AVXjj7h4VrWVFvbZflTql/QcO5fCn60E9H0KA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIpKYAqCAvhvX5he+CD5v8r+Ec4RNqAGv/q3k5EiJ/cyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daniyalw
+
+==================================================================
